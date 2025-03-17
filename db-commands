@@ -1,0 +1,3 @@
+br set -n "cordic"
+br set -n "cordic_end"
+r 45

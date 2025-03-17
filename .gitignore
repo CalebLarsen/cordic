@@ -1,0 +1,6 @@
+*.o
+cordic
+test
+a.out
+help
+help.dSYM/
